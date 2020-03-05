@@ -1,0 +1,68 @@
+
+
+body {
+    background-color: floralwhite;
+}
+
+
+/* classes */
+button.Submit {
+
+    background-color: deepskyblue;
+
+    border:  black 5px solid;
+    width: 50px;
+    height: 50px;
+}
+
+td.Nickname {
+
+    background-color: deepskyblue;
+
+    border:  black 5px solid;
+    width: 300px;
+    height: 50px;
+
+}
+
+td.Title {
+
+    background-color: deepskyblue;
+
+    border:  black 5px solid;
+    width: 300px;
+    height: 50px;
+
+}
+td.Summary {
+
+    background-color: deepskyblue;
+
+    border:  black 5px solid;
+    width: 20;
+    height: 50px;
+
+}
+
+td.Content {
+
+    background-color: deepskyblue;
+
+    border:  black 5px solid;
+    width: 300px;
+    height: 50px;
+
+}
+
+td.Time {
+
+    background-color: deepskyblue;
+
+    border:  black 5px solid;
+    width: 300px;
+    height: 50px;
+
+}
+
+
+
